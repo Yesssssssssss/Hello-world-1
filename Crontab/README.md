@@ -1,6 +1,6 @@
 ### Overview
 
-Prints "Hello world!" to the syslog every at xx:01 (*nix only)
+Prints "Hello world!" to the syslog at xx:01 (*nix only)
 
 ## Usage
 
