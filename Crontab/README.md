@@ -4,4 +4,5 @@ Prints "Hello world!" to the syslog every at xx:01 (*nix only)
 
 ## Usage
 
-Open your terminal of choice, type ```crontab -e```
+1. Open your terminal of choice, type ```crontab -e```
+2. Paste contents of the crontab file
